@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **Aquiver Roleplay @ RageMP**
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:id)](https://discord.com/users/:148198028866617344)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/freameeedits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="freameeedits" height="30" width="40" /></a>
