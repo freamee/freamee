@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freamee" alt="freamee" /></a> </p>
 
-- 🔭 I’m currently working on **Aquiver Roleplay**
+- 🔭 I’m currently working on **Aquiver Roleplay @ RageMP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/ucjiyp5dcqwlyv3hgqqydw4q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucjiyp5dcqwlyv3hgqqydw4q" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/freameeedits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="freameeedits" height="30" width="40" /></a>
 <a href="https://discord.gg/FBKuqSfdQD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FBKuqSfdQD" height="30" width="40" /></a>
 </p>
 
