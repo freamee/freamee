@@ -5,6 +5,10 @@
 
 - 🔭 I’m currently working on **Aquiver Roleplay @ RageMP**
 
+<a href="https://discord.com/users/290131759159443457" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/c00a695c6fc46cec8c78ac9f98ecd92cab23aa2f049adf2bbab71a124b7fbf76/68747470733a2f2f6c616e796172642d70726f66696c652d726561646d652e76657263656c2e6170702f6170692f3239303133313735393135393434333435373f69646c654d6573736167653d50726f6261626c79253230646f696e67253230736f6d657468696e67253230656c73652e2e2e" alt="Discord Presence" align="center" data-canonical-src="https://lanyard-profile-readme.vercel.app/api/290131759159443457?idleMessage=Probably%20doing%20something%20else..." style="max-width: 100%;">
+   </a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/freameeedits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="freameeedits" height="30" width="40" /></a>
