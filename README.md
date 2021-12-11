@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Aquiver Roleplay @ RageMP**
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:id)](https://discord.com/users/:148198028866617344)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:id)](https://discord.com/users/148198028866617344)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
